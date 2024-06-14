@@ -1,4 +1,5 @@
 mysql:8.0.31
 elasticsearch:7.17.19
+1340691923/elastic_view:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
