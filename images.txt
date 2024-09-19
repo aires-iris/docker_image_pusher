@@ -1,2 +1,1 @@
-gitlab/gitlab-ce:17.1.7-ce.0
-sonarqube:9.9.6-community
+kindest/node:v1.27.3
