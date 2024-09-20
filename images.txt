@@ -1,1 +1,1 @@
-kindest/node:v1.27.3
+nginx:latest
